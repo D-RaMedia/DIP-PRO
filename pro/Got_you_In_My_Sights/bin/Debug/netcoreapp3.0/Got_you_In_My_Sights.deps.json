@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Got_you_In_My_Sights/1.0.0": {
+        "runtime": {
+          "Got_you_In_My_Sights.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Got_you_In_My_Sights/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

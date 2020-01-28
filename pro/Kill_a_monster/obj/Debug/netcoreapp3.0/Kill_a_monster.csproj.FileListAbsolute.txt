@@ -1,0 +1,11 @@
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.exe
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.deps.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.runtimeconfig.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\bin\Debug\netcoreapp3.0\Kill_a_monster.pdb
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\obj\Debug\netcoreapp3.0\Kill_a_monster.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\obj\Debug\netcoreapp3.0\Kill_a_monster.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\obj\Debug\netcoreapp3.0\Kill_a_monster.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\obj\Debug\netcoreapp3.0\Kill_a_monster.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro\PROPeriode2\Kill_a_monster\obj\Debug\netcoreapp3.0\Kill_a_monster.pdb
